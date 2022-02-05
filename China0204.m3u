@@ -1,0 +1,1013 @@
+#EXTM3U
+#EXTINF:-1 ,4K修复
+http://ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8 $4K
+#EXTINF:-1 ,4K修复[3840*2160]
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 ,AM70.2
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221227934/index.m3u8
+#EXTINF:-1 ,BesTV[640*360]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:-1 ,BesTV[640*360]
+http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
+#EXTINF:-1 ,BesTV[640*360]
+http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221226801/index.m3u8
+#EXTINF:-1 ,BesTV体育[640*360]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221226807/index.m3u8
+#EXTINF:-1 ,CCTV1[785*576]
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221227292/index.m3u8
+#EXTINF:-1 ,CCTV1[1047*576]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221227023/index.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.110.236.53/ott.js.chinamobile.com/PLTV/3/224/3221228213/index.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227644/index.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221228146/index.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228049/index.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.110.236.4/ott.js.chinamobile.com/PLTV/3/224/3221228075/index.m3u8
+#EXTINF:-1 ,CCTV1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,﻿CCTV1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV2[1920*1080]
+http://223.110.235.39/ott.js.chinamobile.com/PLTV/3/224/3221228118/index.m3u8
+#EXTINF:-1 ,CCTV2[1920*1080]
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228094/index.m3u8
+#EXTINF:-1 ,CCTV2[1920*1080]
+http://223.110.245.166/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+#EXTINF:-1 ,CCTV2[1920*1080]
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+#EXTINF:-1 ,CCTV2[1920*1080]
+http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221228248/index.m3u8
+#EXTINF:-1 ,CCTV2HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV3[1920*1080]
+http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221228188/index.m3u8
+#EXTINF:-1 ,CCTV3[1920*1080]
+http://223.110.236.56/ott.js.chinamobile.com/PLTV/3/224/3221228174/index.m3u8
+#EXTINF:-1 ,CCTV3[1920*1080]
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+#EXTINF:-1 ,CCTV3[1920*1080]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228126/index.m3u8
+#EXTINF:-1 ,CCTV3[1920*1080]
+http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221227623/index.m3u8
+#EXTINF:-1 ,CCTV3[1920*1080]
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 ,CCTV3HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226040/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV3HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV3HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV4[1920*1080]
+http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221228142/index.m3u8
+#EXTINF:-1 ,CCTV4[1920*1080]
+http://223.110.236.25/ott.js.chinamobile.com/PLTV/3/224/3221227549/index.m3u8
+#EXTINF:-1 ,CCTV4[1920*1080]
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221227683/index.m3u8
+#EXTINF:-1 ,CCTV4[1920*1080]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228091/index.m3u8
+#EXTINF:-1 ,CCTV4[1920*1080]
+http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
+#EXTINF:-1 ,CCTV4[1920*1080]
+http://223.110.235.39/ott.js.chinamobile.com/PLTV/3/224/3221228156/index.m3u8
+#EXTINF:-1 ,CCTV4HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226266/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV4HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV4K 12M[3840*2160]
+http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 ,CCTV4K 14M[3840*2160]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 ,CCTV4K 14M[3840*2160]
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 ,CCTV4欧洲HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV4美洲HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV5[1920*1080]
+http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8
+#EXTINF:-1 ,CCTV5[1920*1080]
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221228179/index.m3u8
+#EXTINF:-1 ,CCTV5[1920*1080]
+http://223.110.235.34/ott.js.chinamobile.com/PLTV/3/224/3221228082/index.m3u8
+#EXTINF:-1 ,CCTV5[1920*1080]
+http://223.110.236.56/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+#EXTINF:-1 ,CCTV5[1920*1080]
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228173/index.m3u8
+#EXTINF:-1 ,CCTV5[1920*1080]
+http://223.110.235.33/ott.js.chinamobile.com/PLTV/3/224/3221227478/index.m3u8
+#EXTINF:-1 ,CCTV5+[1920*1080]
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228076/index.m3u8
+#EXTINF:-1 ,CCTV5+[1920*1080]
+http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221228114/index.m3u8
+#EXTINF:-1 ,CCTV5+[1920*1080]
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228176/index.m3u8
+#EXTINF:-1 ,CCTV5+[1920*1080]
+http://223.110.243.145/ott.js.chinamobile.com/PLTV/3/224/3221227685/index.m3u8
+#EXTINF:-1 ,CCTV5+[1920*1080]
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
+#EXTINF:-1 ,CCTV5+HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV5+HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV5+HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226128/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV5HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV5HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV5HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV5HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV6[1920*1080]
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV6[1920*1080]
+http://223.110.236.58/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+#EXTINF:-1 ,CCTV6[1920*1080]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228123/index.m3u8
+#EXTINF:-1 ,CCTV6[1920*1080]
+http://223.110.236.54/ott.js.chinamobile.com/PLTV/3/224/3221228185/index.m3u8
+#EXTINF:-1 ,CCTV6[1920*1080]
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8
+#EXTINF:-1 ,CCTV6HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV6HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226046/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV7[1920*1080]
+http://223.110.236.23/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+#EXTINF:-1 ,CCTV7[1920*1080]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
+#EXTINF:-1 ,CCTV7HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV8[1920*1080]
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8
+#EXTINF:-1 ,CCTV8[1920*1080]
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
+#EXTINF:-1 ,CCTV8[1920*1080]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
+#EXTINF:-1 ,CCTV8[1920*1080]
+http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228079/index.m3u8
+#EXTINF:-1 ,CCTV8[1920*1080]
+http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 ,CCTV8[1920*1080]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221228194/index.m3u8
+#EXTINF:-1 ,CCTV8HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226060/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV8HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV8HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226244/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV9[1920*1080]
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
+#EXTINF:-1 ,CCTV9[1920*1080]
+http://223.110.235.19/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
+#EXTINF:-1 ,CCTV9HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV10[1920*1080]
+http://223.110.245.162/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8
+#EXTINF:-1 ,CCTV10[1920*1080]
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221228078/index.m3u8
+#EXTINF:-1 ,CCTV10[1920*1080]
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 ,CCTV10[1920*1080]
+http://223.110.236.25/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
+#EXTINF:-1 ,CCTV10HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV11[1920*1080]
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:-1 ,CCTV11[1920*1080]
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
+#EXTINF:-1 ,CCTV11HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV12[1920*1080]
+http://223.110.235.15/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 ,CCTV12[1920*1080]
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+#EXTINF:-1 ,CCTV12HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV13[1920*1080]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221228121/index.m3u8
+#EXTINF:-1 ,CCTV13[1920*1080]
+http://223.110.236.14/ott.js.chinamobile.com/PLTV/3/224/3221228224/index.m3u8
+#EXTINF:-1 ,CCTV13HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV14[1920*1080]
+http://223.110.236.18/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 ,CCTV14[1920*1080]
+http://223.110.236.6/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1 ,CCTV14[1920*1080]
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 ,CCTV14HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV15[1047*576]
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 ,CCTV15[1920*1080]
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
+#EXTINF:-1 ,CCTV15[1920*1080]
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1 ,CCTV15HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV16 4K[3480*2160]
+http://223.110.236.58/ott.js.chinamobile.com/PLTV/3/224/3221228314/index.m3u8
+#EXTINF:-1 ,CCTV16 4K[3840*2160]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 ,CCTV16 4K[3840*2160]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:-1 ,CCTV16[1920*1080]
+http://223.110.235.39/ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8
+#EXTINF:-1 ,CCTV17[1047*576]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227639/index.m3u8
+#EXTINF:-1 ,CCTV17[1920*1080]
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+#EXTINF:-1 ,CCTV17[1920*1080]
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227578/index.m3u8
+#EXTINF:-1 ,CCTV17[1920*1080]
+http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221227592/index.m3u8
+#EXTINF:-1 ,CCTV17[1920*1080]
+http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:-1 ,CCTV17HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-世界地理HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-世界地理HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-兵器科技HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-兵器科技HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-央视台球HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-央视台球HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-女性时尚HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-女性时尚HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-怀旧剧场HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-怀旧剧场HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-文化精品HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-文化精品HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-电视指南HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-电视指南HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-第一剧场HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-第一剧场HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-风云剧场HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-风云剧场HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-风云足球HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-风云足球HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-风云音乐HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-风云音乐HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV高尔夫网球[768*576]
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球[1920*1080]
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
+#EXTINF:-1 ,CCTV-高尔夫网球HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-高尔夫网球HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CETV1[768*576]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227560/index.m3u8
+#EXTINF:-1 ,CETV1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CETV2[768*576]
+http://223.110.236.14/ott.js.chinamobile.com/PLTV/3/224/3221227607/index.m3u8
+#EXTINF:-1 ,CETV4][768*576]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227657/index.m3u8
+#EXTINF:-1 ,CGTN[768*576]
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
+#EXTINF:-1 ,CGTN俄语HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226278/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CGTN法语HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226265/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CGTN纪录[768*576]
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
+#EXTINF:-1 ,CGTN英语HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CGTN西语
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225666/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CGTN记录
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225670/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CGTN阿语HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226281/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,FM89.7
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221227949/index.m3u8
+#EXTINF:-1 ,FM91.4
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221227987/index.m3u8
+#EXTINF:-1 ,FM93.7
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221227984/index.m3u8
+#EXTINF:-1 ,FM95.2
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221227946/index.m3u8
+#EXTINF:-1 ,FM97.5
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221227943/index.m3u8
+#EXTINF:-1 ,FM99.7
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227940/index.m3u8
+#EXTINF:-1 ,FM100.5
+http://223.110.236.4/ott.js.chinamobile.com/PLTV/3/224/3221227952/index.m3u8
+#EXTINF:-1 ,FM101.1
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227937/index.m3u8
+#EXTINF:-1 ,HZTV-1[768*576]
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228287/index.m3u8
+#EXTINF:-1 ,LOVE4K
+http://177.20.208.58:8000/play/a03r/index.m3u8
+#EXTINF:-1 ,NBS南京信息[1920*1080]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227730/index.m3u8
+#EXTINF:-1 ,QXTV-1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,三农[1920*1080]
+http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227709/index.m3u8
+#EXTINF:-1 ,上海东方卫视[1920*1080]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
+#EXTINF:-1 ,上海东方卫视[1920*1080]
+http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227688/index.m3u8
+#EXTINF:-1 ,上海东方卫视[1920*1080]
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
+#EXTINF:-1 ,上海东方卫视[1920*1080]
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1 ,东南卫视[1920*1080]
+http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1 ,东南卫视[1920*1080]
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
+#EXTINF:-1 ,东南卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,东奥纪实HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226105/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,东奥纪实HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226075/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,东方卫视[1920*1080]
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228145/index.m3u8
+#EXTINF:-1 ,东方卫视[1920*1080]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221228150/index.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,中华美食[768*576]
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227647/index.m3u8
+#EXTINF:-1 ,中国功夫[1920*1080]
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 ,中央新影老故事[1047*576]
+http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 ,中学生
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,云南卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225687/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,云南卫视[768*576]
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
+#EXTINF:-1 ,云南卫视[768*576]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227571/index.m3u8
+#EXTINF:-1 ,云南卫视[1047*576]
+http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
+#EXTINF:-1 ,云南卫视[1920*1080]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228169/index.m3u8
+#EXTINF:-1 ,京视剧场[720*576]
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
+#EXTINF:-1 ,优漫卡通
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225763/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,优漫卡通[1047*576]
+http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221226982/index.m3u8
+#EXTINF:-1 ,优漫卡通[1047*576]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227577/index.m3u8
+#EXTINF:-1 ,优购物[768*576]
+http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221227582/index.m3u8
+#EXTINF:-1 ,体育赛事HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,体育赛事HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226196/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,全纪实HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,全纪实HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,六盘水-1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225772/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,六盘水-2HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225773/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,兵团卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225722/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,兵团卫视[768*576]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227654/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225718/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,内蒙古卫视[768*576]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227557/index.m3u8
+#EXTINF:-1 ,军事评论[1920*1080]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 ,军旅剧场[1920*1080]
+http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 ,农业致富[1920*1080]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1 ,农林卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,农林卫视[768*576]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227648/index.m3u8
+#EXTINF:-1 ,冬奥记实8k
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
+#EXTINF:-1 ,凤凰HK台[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 ,凤凰中文[1920*1080]
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 ,凤凰资讯[1920*1080]
+http://223.110.236.22/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 ,凯里TVHD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226062/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,动作电影[1920*1080]
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 ,动漫秀场[1920*1080]
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
+#EXTINF:-1 ,动漫秀场HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226215/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,动漫秀场HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,北京IPTV4K
+http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 ,北京冬奥纪实[1920*1080]
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
+#EXTINF:-1 ,北京卫视[1920*1080]
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221228115/index.m3u8
+#EXTINF:-1 ,北京卫视[1920*1080]
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227694/index.m3u8
+#EXTINF:-1 ,北京卫视[1920*1080]
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
+#EXTINF:-1 ,北京卫视[1920*1080]
+http://223.110.236.18/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,十八?[1047*576]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221227178/index.m3u8
+#EXTINF:-1 ,南京少儿[1047*576]
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227733/index.m3u8
+#EXTINF:-1 ,南京生活[1047*576]
+http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227786/index.m3u8
+#EXTINF:-1 ,南国都市4K
+https://aplay.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 ,南方卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225738/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,卡酷少儿
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,卡酷少儿[1047*576]
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227566/index.m3u8
+#EXTINF:-1 ,卡酷少儿[1047*576]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221226305/index.m3u8
+#EXTINF:-1 ,厦门卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225761/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,厦门卫视[768*576]
+http://223.110.235.15/ott.js.chinamobile.com/PLTV/3/224/3221227604/index.m3u8
+#EXTINF:-1 ,厦门卫视[1047*576]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 ,古装剧场[1920*1080]
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 ,吉林卫视[768*576]
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221228028/index.m3u8
+#EXTINF:-1 ,吉林卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,同仁-2
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226102/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,咪咕广告[1920*1080]
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221228117/index.m3u8
+#EXTINF:-1 ,咪咕广告[1920*1080]
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228087/index.m3u8
+#EXTINF:-1 ,咪咕广告[1920*1080]
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228103/index.m3u8
+#EXTINF:-1 ,咪咕篮球?[1920*1080]
+http://223.110.235.15/ott.js.chinamobile.com/PLTV/3/224/3221228206/index.m3u8
+#EXTINF:-1 ,咪咕足球?[1920*1080]
+http://223.110.235.15/ott.js.chinamobile.com/PLTV/3/224/3221228129/index.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,哈哈炫动[768*576]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227586/index.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225690/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,嘉佳卡通[1023*576]
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227598/index.m3u8
+#EXTINF:-1 ,四川卫视[768*576]
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227556/index.m3u8
+#EXTINF:-1 ,四川卫视[1047*576]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF:-1 ,四川卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,国学频道
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225692/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,城铁电视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226101/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,天元围棋
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,天津卫视[1920*1080]
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227407/index.m3u8
+#EXTINF:-1 ,天津卫视[1920*1080]
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228239/index.m3u8
+#EXTINF:-1 ,天津卫视[1920*1080]
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227633/index.m3u8
+#EXTINF:-1 ,天津卫视[1920*1080]
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227741/index.m3u8
+#EXTINF:-1 ,天津卫视[1920*1080]
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8
+#EXTINF:-1 ,天津卫视[1920*1080]
+http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225756/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,央广购物[768*576]
+http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221227532/index.m3u8
+#EXTINF:-1 ,央广购物[1280*720]
+http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227769/index.m3u8
+#EXTINF:-1 ,央广购物[1920*1080]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228210/index.m3u8
+#EXTINF:-1 ,好享购物[1280*720]
+http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221227398/index.m3u8
+#EXTINF:-1 ,好享购物[1920*1080]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225719/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,宁夏卫视[785*576]
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227563/index.m3u8
+#EXTINF:-1 ,安-1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226241/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,安-2HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226276/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,安-2HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226034/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,安多卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225694/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,安多卫视[768*576]
+http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227651/index.m3u8
+#EXTINF:-1 ,安多卫视[1047*576]
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221226999/index.m3u8
+#EXTINF:-1 ,安徽卫视[1047*576]
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
+#EXTINF:-1 ,安徽卫视[1920*1080]
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
+#EXTINF:-1 ,安徽卫视[1920*1080]
+http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221228153/index.m3u8
+#EXTINF:-1 ,安徽卫视[1920*1080]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227759/index.m3u8
+#EXTINF:-1 ,安徽卫视[1920*1080]
+http://223.110.236.18/ott.js.chinamobile.com/PLTV/3/224/3221227643/index.m3u8
+#EXTINF:-1 ,安徽卫视[1920*1080]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 ,安徽卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,家庭剧场[1920*1080]
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 ,家有购物[1280*720]
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227705/index.m3u8
+#EXTINF:-1 ,家有购物[1280*720]
+http://223.110.236.56/ott.js.chinamobile.com/PLTV/3/224/3221228172/index.m3u8
+#EXTINF:-1 ,家有购物[1280*720]
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227649/index.m3u8
+#EXTINF:-1 ,宿迁综合[873*480]
+http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221226944/index.m3u8
+#EXTINF:-1 ,山东卫视[1920*1080]
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227621/index.m3u8
+#EXTINF:-1 ,山东卫视[1920*1080]
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
+#EXTINF:-1 ,山东卫视[1920*1080]
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228124/index.m3u8
+#EXTINF:-1 ,山东卫视[1920*1080]
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227697/index.m3u8
+#EXTINF:-1 ,山东卫视[1920*1080]
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225728/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,山东教育卫视[1047*576]
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
+#EXTINF:-1 ,山西卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225730/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,山西卫视[768*576]
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227559/index.m3u8
+#EXTINF:-1 ,广东卫视[1920*1080]
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
+#EXTINF:-1 ,广东卫视[1920*1080]
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228230/index.m3u8
+#EXTINF:-1 ,广东卫视[1920*1080]
+http://223.110.245.140/ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
+#EXTINF:-1 ,广东卫视[1920*1080]
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221227691/index.m3u8
+#EXTINF:-1 ,广东卫视[1920*1080]
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,广东综艺4k
+http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1198
+#EXTINF:-1 ,广告
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228084/index.m3u8
+#EXTINF:-1 ,广告[1920*1080]
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221228215/index.m3u8
+#EXTINF:-1 ,广告[1920*1080]
+http://223.110.236.21/ott.js.chinamobile.com/PLTV/3/224/3221228155/index.m3u8
+#EXTINF:-1 ,广告[1920*1080]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225711/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,广西卫视[768*576]
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227609/index.m3u8
+#EXTINF:-1 ,广西卫视[1920*1080]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221228183/index.m3u8
+#EXTINF:-1 ,康巴卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225695/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,康巴卫视[768*576]
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227645/index.m3u8
+#EXTINF:-1 ,延边卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225721/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,延边卫视[768*576]
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227590/index.m3u8
+#EXTINF:-1 ,延边卫视[1047*576]
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
+#EXTINF:-1 ,快乐垂钓HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226224/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,快乐垂钓HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,怡伴健康[1920*1080]
+http://223.110.236.25/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 ,急速汽车HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,急速汽车HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226234/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,惊悚悬疑[1920*1080]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 ,摄影频道
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225683/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,新疆卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225759/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,新疆卫视[785*576]
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227627/index.m3u8
+#EXTINF:-1 ,新疆卫视[1920*1080]or江苏卫视[104
+http://223.110.236.58/ott.js.chinamobile.com/PLTV/3/224/3221228290/index.m3u8
+#EXTINF:-1 ,新视觉HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226186/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,新视觉HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226237/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,未知 SCV[720*576]
+http://223.110.236.4/ott.js.chinamobile.com/PLTV/3/224/3221228081/index.m3u8
+#EXTINF:-1 ,未知[1920*800]
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
+#EXTINF:-1 ,未知[1920*1080]
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227702/index.m3u8
+#EXTINF:-1 ,未知[1920*1080]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221228120/index.m3u8
+#EXTINF:-1 ,未知4K[3840*2144]
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
+#EXTINF:-1 ,未知4K[3840*2144]
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+#EXTINF:-1 ,未知Bravo Inc[1920*1080]
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 ,未知Bravo[1920*1080]
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
+#EXTINF:-1 ,未知公共频道[1920*1080]
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227819/index.m3u8
+#EXTINF:-1 ,未知足球HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226236/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,某公共[1920*1080]
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227772/index.m3u8
+#EXTINF:-1 ,某公共[1920*1080]
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227905/index.m3u8
+#EXTINF:-1 ,某新闻综合[1920*1080]
+http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228007/index.m3u8
+#EXTINF:-1 ,某生活[1920*1080]
+http://223.110.243.155/ott.js.chinamobile.com/PLTV/3/224/3221227816/index.m3u8
+#EXTINF:-1 ,某经济生活[1920*1080]
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227611/index.m3u8
+#EXTINF:-1 ,某综合[1920*1080]
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221227706/index.m3u8
+#EXTINF:-1 ,某资讯[1920*1080]
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221227712/index.m3u8
+#EXTINF:-1 ,欢笑剧场4K
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 ,欢笑剧场4K
+http://ott.js.chinamobile.com/TVOD/3/224/3221227715/index.m3u8
+#EXTINF:-1 ,武搏世界[1920*1080]
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
+#EXTINF:-1 ,毕节-1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226113/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,毕节-1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226002/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,毕节-2HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226021/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,毕节-2HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226133/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江苏体育休闲[1047*576]
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
+#EXTINF:-1 ,江苏卫视[1047*576]
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228052/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.236.6/ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227736/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228251/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227739/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.236.15/ott.js.chinamobile.com/PLTV/3/224/3221227792/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228039/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227689/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227765/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.236.25/ott.js.chinamobile.com/PLTV/3/224/3221228097/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.236.4/ott.js.chinamobile.com/PLTV/3/224/3221227561/index.m3u8
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228099/index.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江苏教育[720*576]
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+#EXTINF:-1 ,江西卫视[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
+#EXTINF:-1 ,江西卫视[1920*1080]
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228109/index.m3u8
+#EXTINF:-1 ,江西卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,河北卫视[768*576]
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227545/index.m3u8
+#EXTINF:-1 ,河北卫视[1920*1080]
+http://223.110.236.22/ott.js.chinamobile.com/PLTV/3/224/3221228106/index.m3u8
+#EXTINF:-1 ,河北卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,河南卫视[768*576]
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227521/index.m3u8
+#EXTINF:-1 ,河南卫视[1047*576]
+http://223.110.235.21/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 ,河南卫视[1920*1080]
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228221/index.m3u8
+#EXTINF:-1 ,河南卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,法制天地HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226209/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,法制天地HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,泰州-1[1920*1080]
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228209/index.m3u8
+#EXTINF:-1 ,泰州-2[1920*1080]
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228212/index.m3u8
+#EXTINF:-1 ,泰州-3[1920*1080]
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228100/index.m3u8
+#EXTINF:-1 ,浙江卫视[1920*1080]
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228147/index.m3u8
+#EXTINF:-1 ,浙江卫视[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
+#EXTINF:-1 ,浙江卫视[1920*1080]
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227692/index.m3u8
+#EXTINF:-1 ,浙江卫视[1920*1080]
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8
+#EXTINF:-1 ,浙江卫视[1920*1080]
+http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221228204/index.m3u8
+#EXTINF:-1 ,浙江卫视[1920*1080]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228180/index.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225750/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,浙江卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,海南卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225762/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,海南卫视[768*576]
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228101/index.m3u8
+#EXTINF:-1 ,海南卫视[1920*1080]
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228139/index.m3u8
+#EXTINF:-1 ,深圳卫视[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227677/index.m3u8
+#EXTINF:-1 ,深圳卫视[1920*1080]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227624/index.m3u8
+#EXTINF:-1 ,深圳卫视[1920*1080]
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
+#EXTINF:-1 ,深圳卫视[1920*1080]
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228236/index.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225712/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,游戏风云HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,游戏风云HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226252/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,湖北卫视[1920*1080]
+http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
+#EXTINF:-1 ,湖北卫视[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
+#EXTINF:-1 ,湖北卫视[1920*1080]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227565/index.m3u8
+#EXTINF:-1 ,湖北卫视[1920*1080]
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221228159/index.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225708/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,湖南卫视[1920*1080]
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
+#EXTINF:-1 ,湖南卫视[1920*1080]
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228177/index.m3u8
+#EXTINF:-1 ,湖南卫视[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
+#EXTINF:-1 ,湖南卫视[1920*1080]
+http://223.110.236.14/ott.js.chinamobile.com/PLTV/3/224/3221227482/index.m3u8
+#EXTINF:-1 ,湖南卫视[1920*1080]
+http://223.110.236.25/ott.js.chinamobile.com/PLTV/3/224/3221228227/index.m3u8
+#EXTINF:-1 ,湖南卫视[1920*1080]
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227320/index.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,湖南卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,潮妈辣婆[1920*1080]
+http://223.110.236.25/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 ,爱上4k
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 ,爱情喜剧[1920*1080]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 ,环球奇观
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,瓮安HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226294/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,甘肃卫视[768*576]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 ,甘肃卫视[1920*1080]
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228166/index.m3u8
+#EXTINF:-1 ,甘肃卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,生活教育[1920*1080]
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
+#EXTINF:-1 ,生活时尚HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226207/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,生活时尚HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226222/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,精品体育[1920*1080]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 ,精品大剧[1920*1080]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 ,精品纪录[1920*1080]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 ,纪实人文[1920*1080]
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
+#EXTINF:-1 ,纪实人文HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226144/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,纪实人文HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,纯享4k
+http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8 $4K
+#EXTINF:-1 ,老故事
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,聚鲨环球精选[768*576]
+http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221227529/index.m3u8
+#EXTINF:-1 ,茶频道HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226240/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,荔枝优选[768*576]
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227777/index.m3u8
+#EXTINF:-1 ,西藏卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225668/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,西藏卫视[785*576]
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228022/index.m3u8
+#EXTINF:-1 ,西藏卫视[785*576]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
+#EXTINF:-1 ,财富天下
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226145/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,购物频道[768*576]
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227572/index.m3u8
+#EXTINF:-1 ,贵州-2HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州-2HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州-3
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225704/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州-4
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225740/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州-5
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225662/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州-6
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225672/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州-7
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州卫视[768*576]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227551/index.m3u8
+#EXTINF:-1 ,贵州卫视[1920*1080]
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 ,贵州卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225776/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵阳-1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵阳-1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵阳-2
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225684/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵阳-3
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225725/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵阳-4
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贾汪新闻[785*576]
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227385/index.m3u8
+#EXTINF:-1 ,超级体育HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226220/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,足球频道HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,足球频道HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,辽宁卫视[1920*1080]
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221228162/index.m3u8
+#EXTINF:-1 ,辽宁卫视[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
+#EXTINF:-1 ,辽宁卫视[1920*1080]
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221227700/index.m3u8
+#EXTINF:-1 ,辽宁卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,遵义公共
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226028/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,遵义综合
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226026/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,遵义都市
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226051/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,邳州综合[1920*1080]
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
+#EXTINF:-1 ,都市剧场[1920*1080]
+http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+#EXTINF:-1 ,都市剧场HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226231/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,都市都市HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,重庆卫视[1920*1080]
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
+#EXTINF:-1 ,重庆卫视[1920*1080]
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228133/index.m3u8
+#EXTINF:-1 ,重庆卫视[1920*1080]
+http://223.110.236.14/ott.js.chinamobile.com/PLTV/3/224/3221227632/index.m3u8
+#EXTINF:-1 ,重庆卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225686/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,金牌综艺[1920*1080]
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,金鹰卡通[1047*576]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227630/index.m3u8
+#EXTINF:-1 ,金鹰纪实[768*576]
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221228110/index.m3u8
+#EXTINF:-1 ,金鹰纪实HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,金鹰纪实HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226064/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,铁路电视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226098/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,铜山卫视[720*576]
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228152/index.m3u8
+#EXTINF:-1 ,铜山影视[720*576]
+http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221228055/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225688/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,陕西卫视[768*576]
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227583/index.m3u8
+#EXTINF:-1 ,陶瓷[1920*1080]
+http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221227768/index.m3u8
+#EXTINF:-1 ,雷山综合HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226130/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,青海卫视
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225760/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,青海卫视[768*576]
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
+#EXTINF:-1 ,黑莓动画[1920*1080]
+http://223.110.236.6/ott.js.chinamobile.com/PLTV/3/224/3221227523/index.m3u8
+#EXTINF:-1 ,黑莓动画[1920*1080]
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 ,黑龙江卫视[1920*1080]
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228233/index.m3u8
+#EXTINF:-1 ,黑龙江卫视[1920*1080]
+http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227753/index.m3u8
+#EXTINF:-1 ,黑龙江卫视[1920*1080]
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
+#EXTINF:-1 ,黑龙江卫视[1920*1080]
+http://223.110.236.22/ott.js.chinamobile.com/PLTV/3/224/3221227638/index.m3u8
+#EXTINF:-1 ,黑龙江卫视[1920*1080]
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,黔东南-1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226091/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,黔东南-1HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226033/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,黔南-1
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226022/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,黔南-2
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226025/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,黔西南公共HD
+http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226003/1/index.m3u8?fmt=ts2hls
